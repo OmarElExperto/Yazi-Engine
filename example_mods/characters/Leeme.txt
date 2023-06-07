@@ -1,0 +1,1 @@
+Pon El Archivo .json Aqui O lo puedes hacer en Assets/Characters O si es en codigo fuente en Assets/Preload/Characters

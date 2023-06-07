@@ -1,0 +1,31 @@
+{	
+	"roles":
+	[
+		["Programador",32,		232,43,46],
+		["Artista",	32,			242,219,23],
+		["Compositor",32,		76,183,242],
+		["Animador",32,			98,224,117]
+	],
+
+	"character":
+	[
+		["Shadow Mario",40,			"Programador Principal de Psych Engine",32,								0,"https://twitter.com/Shadow_Mario_"],
+		["RiverOaken",64,			"Artista Principal/Animador de Psych Engine",32,						1,"https://twitter.com/RiverOaken"],
+		["shubs",64,				"Programador Adicional de Psych Engine",32,								0,"https://twitter.com/yoshubs"],
+		["bb-panzu",64,				"Ex-Programador de Psych Engine",32,									0,"https://twitter.com/bbsub3"],
+		["iFlicky",	64,				"Compositor de Psync and Tea Time\nCreador de Sonidos de Dialogo",32,	2,"https://twitter.com/flicky_i"],
+		["SqirraRNG",64,			"Logger del Crash y El Codigo base \nDel Waveform Editor",32,			0,"https://twitter.com/gedehari"],
+		["EliteMasterEric",40,		"Creador de los Shaders Runtime",32,									0,"https://twitter.com/EliteMasterEric"],
+		["PolybiusProxy",40,		"Cargador del .mp4 (hxCodec)",32,										0,"https://twitter.com/polybiusproxy"],
+		["KadeDev",64,				"Arreglo Cosas del Editor de Chart\nEntre Otras Cosas",32,				0,"https://twitter.com/kade0912"],
+		["Keoiki",64,				"Animaciones de Note Splash",32,										1,"https://twitter.com/Keoiki_"],
+		["Nebula the Zorua",40,		"LUA JIT Fork y Los Remakes de LUA",32,									0,"https://twitter.com/Nebula_Zorua"],
+		["Smokey",64,				"Soporte de Los Sprite Atlas ",32,										1,"https://twitter.com/Smokey_5_"],
+		["ninjamuffin99",40,		"Programador de Friday Night Funkin'",32,								0,"https://twitter.com/ninja_muffin99"],
+		["PhantomArcade",40,		"Animador de Friday Night Funkin'",32,									3,"https://twitter.com/PhantomArcade3K"],
+		["evilsk8r",64,				"Artista de Friday Night Funkin'",32,									1,"https://twitter.com/evilsk8r"],
+		["Digo",	32,				"Compositor del Mod",32,												2,"https://youtube.com/@Digo012"],
+		["Omar",	32,				"Programador del Mod y Creador de Yazi Engine",32,						0,"https://www.youtube.com/channel/UCb2OyLqOJ_oNRTaV8JOICeA"],
+		["Matris",	32,				"Artista del Mod",32,													3,"https://youtube.com/@matris2008"]
+	]
+}

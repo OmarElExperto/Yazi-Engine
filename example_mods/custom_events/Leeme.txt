@@ -1,0 +1,3 @@
+Pon los archivos de Eventos Aqui
+.lua Es el Evento
+.txt Es el archivo donde contiene las intrucciones para el Editor de Charteo

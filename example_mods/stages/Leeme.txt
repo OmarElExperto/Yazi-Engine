@@ -1,0 +1,1 @@
+Pon tus stages personalizados con .lua el stage y el .json que seria el offset de los personajes

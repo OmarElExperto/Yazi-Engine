@@ -1,0 +1,5 @@
+Tu puedes editar archivos Aqui o ponerlos completamente Nuevos
+
+Sobre Editar:
+No importa Si quieres editar algo en assets/shared/images/ or assets/preload/images/,
+Tu puedes poner lo mismo en la carpeta mods/images/, Esto Lo hara automaticamente El Motor

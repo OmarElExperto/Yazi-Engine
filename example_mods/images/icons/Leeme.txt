@@ -1,0 +1,3 @@
+Pon tus iconos Personalizados Aqui!
+Iconos Siempre deben de empezar "icon-" o no seran leidos!
+La resolucion Minima de la imagen debe ser de 300x150

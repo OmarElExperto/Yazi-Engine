@@ -1,0 +1,4 @@
+Pon Tus Fuentes Personalizadas Aqui!
+sI TU Fuente Se Llama "amogus.ttf", yTu puedes hacer textos .lua Usando Lo Siguiente:
+
+setTextFont("yourObjectTag", "amogus.ttf");

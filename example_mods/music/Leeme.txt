@@ -1,0 +1,8 @@
+Pon tu cancion personalizada aqui!
+Tiene que ser .ogg otra extension no lo leera!!!
+
+CUIDADO!!!
+Esto no es sobre tu cancion (Instrumental or Voices),
+Si tu quieres implementar la cancion Inst/Voices, ve a la carpeta de  "mods/songs/" 
+
+Esto es simple para usarlo con  Lua's "playMusic".

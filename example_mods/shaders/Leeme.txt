@@ -1,0 +1,2 @@
+Pon tus archivos de shaders .frag and .vert Aqui!
+Ambos archivos son Opcionales, si uno de ellos se pierde, Se usara un string predeterminado si se pierde uno en llegado caso.
