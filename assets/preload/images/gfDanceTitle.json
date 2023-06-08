@@ -5,6 +5,6 @@
 	"starty":576,
 	"gfx":420,
 	"gfy":-115,
-	"backgroundSprite":"Fondo de Titulo",
+	"backgroundSprite":"",
 	"bpm":120
 }
